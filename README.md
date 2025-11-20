@@ -166,6 +166,63 @@ java -cp out com.AuraFarmerOne.AdvPattern
 5 4 3 2 1 2 3 4 5
 
 ```
+
+ #   Floyd Pyramid
+   
+```
+
+1
+2 3
+4 5 6
+7 8 9 10
+
+```
+
+ #  Character Floyd Pyramid
+   
+```
+
+A
+B C
+D E F
+G H I J
+
+```
+ #   Half Pyramid (Numbers)
+   
+```
+
+1
+12
+123
+1234
+12345
+
+```
+
+ #  Inverted Half Pyramid (Numbers)
+   
+```
+
+12345
+1234
+123
+12
+1
+
+```
+
+ #  Inverted Stars
+   
+```
+
+*****
+****
+***
+**
+*
+
+```
 ------------------------------------------------------------------------
 
 ## 📝 Requirements
