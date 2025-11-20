@@ -93,6 +93,7 @@ java -cp out com.AuraFarmerOne.AdvPattern
 ```
 -   Butterfly\
   ```
+
 *        *
 **      **
 ***    ***
@@ -103,6 +104,7 @@ java -cp out com.AuraFarmerOne.AdvPattern
 ***    ***
 **      **
 *        *
+  
 ```
 -   Combined Butterfly\
   ```
@@ -139,7 +141,7 @@ java -cp out com.AuraFarmerOne.AdvPattern
 5 5 5 5 5    
 ```
 
--   Full Palindrome
+-   Full Palindrome\
   ```
         1
       2 1 2 
