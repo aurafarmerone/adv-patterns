@@ -34,14 +34,14 @@ java -cp out com.AuraFarmerOne.AdvPattern
 
 ## ✨ Features
 
--   Hollow Rectangle\
+#   Hollow Rectangle\
    ```
     ******
     *    *
     *    *
     ******
 ```
--   Inverted Rotated Half Pyramid\
+#  Inverted Rotated Half Pyramid\
   ```
     *****
     ****
@@ -50,7 +50,7 @@ java -cp out com.AuraFarmerOne.AdvPattern
     *
 ```
   
--   Inverted Half Pyramid (Numbers)\
+#  Inverted Half Pyramid (Numbers)\
   ```
     1 2 3 4 5
     1 2 3 4
@@ -58,7 +58,7 @@ java -cp out com.AuraFarmerOne.AdvPattern
     1 2
     1
 ```   
--   0--1 Triangle\
+#   0--1 Triangle\
   ```
     1 
     0 1
@@ -66,35 +66,28 @@ java -cp out com.AuraFarmerOne.AdvPattern
     0 1 0 1
     1 0 1 0 1
 ``` 
--   Pyramid\
+#  Pyramid\
    
 ```
-    *
-   ***
-  *****
- *******
-*********
+     *
+    ***
+   *****
+  *******
+ *********
 ***********
 ```
 
+#  Half Butterfly\
   
--   Half Butterfly\
     ```
     *      *
     **    **
     ***  ***
     ********
-``` 
--   Inverted Half Butterfly\
-  ```
-    ********
-    ***  ***
-    **    **
-    *      *
+    ```
+ #  Butterfly
+   
 ```
--   Butterfly\
-  ```
-
 *        *
 **      **
 ***    ***
@@ -105,51 +98,8 @@ java -cp out com.AuraFarmerOne.AdvPattern
 ***    ***
 **      **
 *        *
-  
-```
--   Combined Butterfly\
-  ```
-*        *
-**      **
-***    ***
-****  ****
-**********
-****  ****
-***    ***
-**      **
-*        *
-```
--   Solid Rhombus\
-  ```
-   *****
-  *****
- *****
-*****
-```
--   Hollow Rhombus\
-  ```
-   *****
-  *   *
- *   *
-*****
-```
--   Number Pyramid\
-  ```
-    1
-   2 2
-  3 3 3
- 4 4 4 4
-5 5 5 5 5    
 ```
 
--   Full Palindrome\
-  ```
-        1
-      2 1 2 
-    3 2 1 2 3
-  4 3 2 1 2 3 4
-5 4 3 2 1 2 3 4 5    
-```
 
 ------------------------------------------------------------------------
 
